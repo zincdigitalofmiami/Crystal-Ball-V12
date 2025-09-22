@@ -1,0 +1,541 @@
+{
+  "timestamp": "2025-09-22T21:24:08.090797+00:00",
+  "weather": {
+    "us_midwest": {
+      "region_name": "US Midwest",
+      "current": {
+        "temperature": 19.7,
+        "precipitation": 2.5,
+        "humidity": 60.4,
+        "drought_index": 1.7,
+        "drought_risk": "low",
+        "crop_impact": "neutral"
+      },
+      "forecast": [
+        {
+          "date": "2025-09-22",
+          "temperature": 20.674068097051524,
+          "precipitation": 0.21935454416447822,
+          "humidity": 70.52700251078623,
+          "drought_risk": "moderate"
+        },
+        {
+          "date": "2025-09-23",
+          "temperature": 21.39395838245056,
+          "precipitation": 1.06882305238013,
+          "humidity": 73.31000238188791,
+          "drought_risk": "low"
+        },
+        {
+          "date": "2025-09-24",
+          "temperature": 20.120049251818212,
+          "precipitation": 0.01841552884215861,
+          "humidity": 75.32105657043716,
+          "drought_risk": "low"
+        },
+        {
+          "date": "2025-09-25",
+          "temperature": 18.523419465942478,
+          "precipitation": 0.6087261816792252,
+          "humidity": 50.448795611750285,
+          "drought_risk": "low"
+        },
+        {
+          "date": "2025-09-26",
+          "temperature": 21.076171293093093,
+          "precipitation": 0.24106835613926322,
+          "humidity": 48.31227331715233,
+          "drought_risk": "low"
+        },
+        {
+          "date": "2025-09-27",
+          "temperature": 18.05945600712679,
+          "precipitation": 0.6252677829787989,
+          "humidity": 73.81110183283957,
+          "drought_risk": "low"
+        },
+        {
+          "date": "2025-09-28",
+          "temperature": 18.05099677651007,
+          "precipitation": 0.19952751255179302,
+          "humidity": 48.02635005207943,
+          "drought_risk": "low"
+        }
+      ],
+      "alerts": []
+    },
+    "brazil_cerrado": {
+      "region_name": "Brazil Cerrado",
+      "current": {
+        "temperature": 18.8,
+        "precipitation": 2.3,
+        "humidity": 35.9,
+        "drought_index": 2.7,
+        "drought_risk": "low",
+        "crop_impact": "neutral"
+      },
+      "forecast": [
+        {
+          "date": "2025-09-22",
+          "temperature": 19.16094664983882,
+          "precipitation": 0.16289510403426719,
+          "humidity": 34.15942293766486,
+          "drought_risk": "low"
+        },
+        {
+          "date": "2025-09-23",
+          "temperature": 21.319826811813847,
+          "precipitation": 3.245072904232931,
+          "humidity": 29.838835592698487,
+          "drought_risk": "low"
+        },
+        {
+          "date": "2025-09-24",
+          "temperature": 18.0552179266114,
+          "precipitation": 1.5808106093375114,
+          "humidity": 32.78562427358131,
+          "drought_risk": "low"
+        },
+        {
+          "date": "2025-09-25",
+          "temperature": 17.713962991466175,
+          "precipitation": 1.8918619303433992,
+          "humidity": 26.629941774560578,
+          "drought_risk": "moderate"
+        },
+        {
+          "date": "2025-09-26",
+          "temperature": 19.900081355870512,
+          "precipitation": 2.7129798825870783,
+          "humidity": 37.31170032464214,
+          "drought_risk": "moderate"
+        },
+        {
+          "date": "2025-09-27",
+          "temperature": 17.397620261075083,
+          "precipitation": 0.3570939257773878,
+          "humidity": 40.9356063839389,
+          "drought_risk": "low"
+        },
+        {
+          "date": "2025-09-28",
+          "temperature": 20.718275030916598,
+          "precipitation": 0.019327165471636154,
+          "humidity": 27.523288040749648,
+          "drought_risk": "low"
+        }
+      ],
+      "alerts": []
+    },
+    "brazil_mato_grosso": {
+      "region_name": "Brazil Mato Grosso",
+      "current": {
+        "temperature": 19.5,
+        "precipitation": 3.2,
+        "humidity": 59.7,
+        "drought_index": 1.2,
+        "drought_risk": "low",
+        "crop_impact": "neutral"
+      },
+      "forecast": [
+        {
+          "date": "2025-09-22",
+          "temperature": 20.875727220290816,
+          "precipitation": 0.14231557047590365,
+          "humidity": 67.06095685364403,
+          "drought_risk": "low"
+        },
+        {
+          "date": "2025-09-23",
+          "temperature": 19.806128814202154,
+          "precipitation": 2.6790225887723285,
+          "humidity": 56.18610066241509,
+          "drought_risk": "low"
+        },
+        {
+          "date": "2025-09-24",
+          "temperature": 22.8289664410568,
+          "precipitation": 0.20314822577874345,
+          "humidity": 56.50693812259609,
+          "drought_risk": "low"
+        },
+        {
+          "date": "2025-09-25",
+          "temperature": 21.927409092885185,
+          "precipitation": 1.6015226061763437,
+          "humidity": 57.65472789474446,
+          "drought_risk": "low"
+        },
+        {
+          "date": "2025-09-26",
+          "temperature": 22.720442536762192,
+          "precipitation": 0.9056229397652614,
+          "humidity": 42.30634026216635,
+          "drought_risk": "low"
+        },
+        {
+          "date": "2025-09-27",
+          "temperature": 17.845848657116754,
+          "precipitation": 0.6187755786869644,
+          "humidity": 67.82645419855513,
+          "drought_risk": "low"
+        },
+        {
+          "date": "2025-09-28",
+          "temperature": 22.494903217551233,
+          "precipitation": 0.39895179954220733,
+          "humidity": 57.48957012056437,
+          "drought_risk": "low"
+        }
+      ],
+      "alerts": []
+    },
+    "argentina_pampas": {
+      "region_name": "Argentina Pampas",
+      "current": {
+        "temperature": 21.6,
+        "precipitation": 1.9,
+        "humidity": 65.4,
+        "drought_index": 2.1,
+        "drought_risk": "low",
+        "crop_impact": "neutral"
+      },
+      "forecast": [
+        {
+          "date": "2025-09-22",
+          "temperature": 22.275283208876186,
+          "precipitation": 2.912517080806442,
+          "humidity": 56.24766129309657,
+          "drought_risk": "low"
+        },
+        {
+          "date": "2025-09-23",
+          "temperature": 22.32599188294439,
+          "precipitation": 2.441806026774788,
+          "humidity": 69.03762562585996,
+          "drought_risk": "low"
+        },
+        {
+          "date": "2025-09-24",
+          "temperature": 20.704959043281885,
+          "precipitation": 1.6366685733832038,
+          "humidity": 60.643412285469594,
+          "drought_risk": "low"
+        },
+        {
+          "date": "2025-09-25",
+          "temperature": 20.052067080150117,
+          "precipitation": 0.08537292774680223,
+          "humidity": 62.452736353184356,
+          "drought_risk": "low"
+        },
+        {
+          "date": "2025-09-26",
+          "temperature": 21.63605132784551,
+          "precipitation": 0.9121168902170088,
+          "humidity": 61.75443742848213,
+          "drought_risk": "low"
+        },
+        {
+          "date": "2025-09-27",
+          "temperature": 22.316513871208493,
+          "precipitation": 1.951781422215771,
+          "humidity": 52.40452377179356,
+          "drought_risk": "low"
+        },
+        {
+          "date": "2025-09-28",
+          "temperature": 25.698279349086054,
+          "precipitation": 0.7863202066936151,
+          "humidity": 60.07771841178679,
+          "drought_risk": "moderate"
+        }
+      ],
+      "alerts": []
+    },
+    "china_northeast": {
+      "region_name": "China Northeast",
+      "current": {
+        "temperature": 7.7,
+        "precipitation": 1.7,
+        "humidity": 53.6,
+        "drought_index": 2.2,
+        "drought_risk": "low",
+        "crop_impact": "neutral"
+      },
+      "forecast": [
+        {
+          "date": "2025-09-22",
+          "temperature": 8.115563691875739,
+          "precipitation": 1.5500219738296266,
+          "humidity": 60.311317458524236,
+          "drought_risk": "low"
+        },
+        {
+          "date": "2025-09-23",
+          "temperature": 8.405069454433779,
+          "precipitation": 0.3303159292228985,
+          "humidity": 66.35320645056798,
+          "drought_risk": "low"
+        },
+        {
+          "date": "2025-09-24",
+          "temperature": 7.57377652998284,
+          "precipitation": 0.5036453616335579,
+          "humidity": 56.09568242590928,
+          "drought_risk": "low"
+        },
+        {
+          "date": "2025-09-25",
+          "temperature": 8.645514444441613,
+          "precipitation": 0.8209608903817074,
+          "humidity": 71.12096645712043,
+          "drought_risk": "moderate"
+        },
+        {
+          "date": "2025-09-26",
+          "temperature": 3.2236829819703,
+          "precipitation": 0.5329277664209966,
+          "humidity": 43.94369120854458,
+          "drought_risk": "low"
+        },
+        {
+          "date": "2025-09-27",
+          "temperature": 14.933898601904774,
+          "precipitation": 1.3328398663055736,
+          "humidity": 60.7458422999524,
+          "drought_risk": "moderate"
+        },
+        {
+          "date": "2025-09-28",
+          "temperature": 10.657177963657476,
+          "precipitation": 0.5512087259035701,
+          "humidity": 56.29684356055762,
+          "drought_risk": "moderate"
+        }
+      ],
+      "alerts": []
+    }
+  },
+  "sentiment": {
+    "overall_sentiment": 0.5476801715441422,
+    "sentiment_trend": "neutral",
+    "sources": {
+      "news": {
+        "records": 10,
+        "avg_sentiment": 0.5421666666666667,
+        "avg_polarity": 0.08433333333333334,
+        "avg_subjectivity": 0.41233333333333333,
+        "articles": [
+          "Brazil soybean harvest faces drought challenges in key growing regions",
+          "US soybean exports to China increase following trade agreement",
+          "Biofuel demand drives soybean oil prices higher",
+          "Weather conditions in Midwest support strong soybean yields",
+          "Argentina soybean production estimates revised downward due to weather"
+        ]
+      },
+      "social": {
+        "records": 10,
+        "avg_sentiment": 0.5988333333333333,
+        "avg_polarity": 0.19766666666666666,
+        "avg_subjectivity": 0.3106666666666667,
+        "posts": [
+          "Soybean prices looking bullish with Brazil weather concerns #soybean #agriculture",
+          "ADM earnings beat expectations, bullish for soybean processing margins",
+          "China soybean imports up 15% this month, demand strong",
+          "Drought in Cerrado region affecting soybean planting #Brazil #soybean",
+          "Biofuel mandates driving soybean oil demand higher"
+        ]
+      },
+      "financial": {
+        "records": 4,
+        "avg_sentiment": 0.5020405146324264,
+        "avg_polarity": 0.004081029264852791,
+        "avg_subjectivity": 0.35593028295234175,
+        "companies": [
+          {
+            "symbol": "ADM",
+            "sentiment": 0.49657401422107306,
+            "market_cap": 28760604672,
+            "description": "Archer-Daniels-Midland Company engages in the procurement, transportation, storage, processing, and merchandising of agricultural commodities, ingredients, flavors, and solutions. It operates in three..."
+          },
+          {
+            "symbol": "BG",
+            "sentiment": 0.5034090909090909,
+            "market_cap": 15432783872,
+            "description": "Bunge Global SA operates as an agribusiness and food company worldwide. It operates through four segments: Agribusiness, Refined and Specialty Oils, Milling, and Sugar and Bioenergy. The Agribusiness ..."
+          },
+          {
+            "symbol": "CAG",
+            "sentiment": 0.5383928571428571,
+            "market_cap": 8769669120,
+            "description": "Conagra Brands, Inc., together with its subsidiaries, operates as a consumer packaged goods food company primarily in the United States. The company operates in four segments: Grocery & Snacks, Refrig..."
+          },
+          {
+            "symbol": "TSN",
+            "sentiment": 0.4697860962566845,
+            "market_cap": 19090585600,
+            "description": "Tyson Foods, Inc., together with its subsidiaries, operates as a food company worldwide. It operates through four segments: Beef, Pork, Chicken, and Prepared Foods. The company processes live fed catt..."
+          }
+        ]
+      }
+    },
+    "alerts": []
+  },
+  "market_data": {
+    "soybean_oil": {
+      "current_price": 49.63,
+      "change": -0.98999786,
+      "change_percent": -1.9557445,
+      "volume": 99717,
+      "high_52w": 58.0,
+      "low_52w": 39.07,
+      "historical_data": [
+        {
+          "Open": 52.689998626708984,
+          "High": 52.880001068115234,
+          "Low": 51.189998626708984,
+          "Close": 51.2400016784668,
+          "Volume": 21104,
+          "Dividends": 0.0,
+          "Stock Splits": 0.0
+        },
+        {
+          "Open": 51.2400016784668,
+          "High": 51.439998626708984,
+          "Low": 50.470001220703125,
+          "Close": 50.56999969482422,
+          "Volume": 19448,
+          "Dividends": 0.0,
+          "Stock Splits": 0.0
+        },
+        {
+          "Open": 50.540000915527344,
+          "High": 50.7599983215332,
+          "Low": 49.970001220703125,
+          "Close": 50.029998779296875,
+          "Volume": 19448,
+          "Dividends": 0.0,
+          "Stock Splits": 0.0
+        },
+        {
+          "Open": 50.619998931884766,
+          "High": 50.77000045776367,
+          "Low": 49.36000061035156,
+          "Close": 49.630001068115234,
+          "Volume": 99717,
+          "Dividends": 0.0,
+          "Stock Splits": 0.0
+        }
+      ]
+    },
+    "soybean_meal": {
+      "current_price": 280.2,
+      "change": -3.7999878,
+      "change_percent": -1.3380239,
+      "volume": 84125,
+      "high_52w": 354.0,
+      "low_52w": 258.6,
+      "historical_data": [
+        {
+          "Open": 285.79998779296875,
+          "High": 288.1000061035156,
+          "Low": 283.5,
+          "Close": 283.8999938964844,
+          "Volume": 29241,
+          "Dividends": 0.0,
+          "Stock Splits": 0.0
+        },
+        {
+          "Open": 283.8999938964844,
+          "High": 284.29998779296875,
+          "Low": 281.3999938964844,
+          "Close": 283.0,
+          "Volume": 28069,
+          "Dividends": 0.0,
+          "Stock Splits": 0.0
+        },
+        {
+          "Open": 283.0,
+          "High": 286.20001220703125,
+          "Low": 281.8999938964844,
+          "Close": 282.8999938964844,
+          "Volume": 28069,
+          "Dividends": 0.0,
+          "Stock Splits": 0.0
+        },
+        {
+          "Open": 284.0,
+          "High": 284.5,
+          "Low": 278.6000061035156,
+          "Close": 280.20001220703125,
+          "Volume": 84125,
+          "Dividends": 0.0,
+          "Stock Splits": 0.0
+        }
+      ]
+    },
+    "soybean": {
+      "current_price": 1011.25,
+      "change": -14.25,
+      "change_percent": -1.3895661,
+      "volume": 171055,
+      "high_52w": 1080.5,
+      "low_52w": 945.25,
+      "historical_data": [
+        {
+          "Open": 1049.25,
+          "High": 1052.75,
+          "Low": 1042.0,
+          "Close": 1043.75,
+          "Volume": 106461,
+          "Dividends": 0.0,
+          "Stock Splits": 0.0
+        },
+        {
+          "Open": 1043.75,
+          "High": 1044.5,
+          "Low": 1035.25,
+          "Close": 1037.5,
+          "Volume": 99218,
+          "Dividends": 0.0,
+          "Stock Splits": 0.0
+        },
+        {
+          "Open": 1038.5,
+          "High": 1047.75,
+          "Low": 1024.0,
+          "Close": 1025.5,
+          "Volume": 99218,
+          "Dividends": 0.0,
+          "Stock Splits": 0.0
+        },
+        {
+          "Open": 1024.25,
+          "High": 1025.0,
+          "Low": 1006.25,
+          "Close": 1011.25,
+          "Volume": 171055,
+          "Dividends": 0.0,
+          "Stock Splits": 0.0
+        }
+      ]
+    },
+    "corn": {},
+    "wheat": {}
+  },
+  "alerts": [
+    {
+      "type": "weather_alert",
+      "severity": "medium",
+      "message": "Drought conditions detected in Brazil Cerrado",
+      "timestamp": "2025-09-22T21:24:14.186046+00:00"
+    },
+    {
+      "type": "sentiment_alert",
+      "severity": "low",
+      "message": "Bullish sentiment detected in agricultural news",
+      "timestamp": "2025-09-22T21:24:14.186061+00:00"
+    }
+  ]
+}

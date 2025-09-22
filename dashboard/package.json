@@ -1,0 +1,43 @@
+{
+  "name": "crystal-ball-dashboard",
+  "version": "1.0.0",
+  "description": "Soybean Oil Futures Forecasting Dashboard for US Oil Solutions",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@radix-ui/react-slot": "^1.2.3",
+    "autoprefixer": "^10.4.21",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.544.0",
+    "next": "^15.0.0",
+    "postcss": "^8.5.6",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "tailwind-merge": "^3.3.1",
+    "tailwindcss": "^4.1.13",
+    "tailwindcss-animate": "^1.0.7"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "eslint": "^8.0.0",
+    "eslint-config-next": "^15.0.0",
+    "typescript": "^5.0.0"
+  },
+  "keywords": [
+    "soybean",
+    "futures",
+    "forecasting",
+    "procurement",
+    "oil"
+  ],
+  "author": "Crystal Ball Intelligence",
+  "license": "MIT"
+}
