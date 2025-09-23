@@ -115,6 +115,29 @@ The [book](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-alternati
 * [23 Conclusions and Next Steps](#23-conclusions-and-next-steps)
 * [24 Appendix - Alpha Factor Library](#24-appendix---alpha-factor-library)
 
+---
+
+## Operational Snapshot (docs-only)
+
+Current verified environment (non-destructive documentation):
+
+- GCP Project: `crystal-ball-intelligence-v12` (us-central1; billing enabled)
+- BigQuery datasets: `raw`, `curated`, `features`, `forecasts`
+- Confirmed curated tables: `curated.futures_daily`, `curated.weather_indicators`
+- Vertex endpoint (Embeddings): `embeddinggemma-300m-mg-one-click-deploy`
+
+Computed-only policy for the dashboard/API:
+- UI reads from BigQuery views/tables only (no direct external feeds)
+- Volatility stack targets (to create): `features.realized_volatility`, `features.vix_sovl_features`, `features.crush_spread`, `features.vol_drivers`
+- SOVL IV table: `curated.sovl_daily (date, iv_30d, source, ingested_at)`
+
+Safety & Data Quality:
+- Add-only views/tables; never mutate existing objects
+- BigQuery Data Quality Scans on `curated.*`/`features.*`
+- No secrets in repo; configure via environment variables
+
+See `CRYSTAL_BALL_SNAPSHOT.md` for details and next steps.
+
 ## Part 1: From Data to Strategy Development
 
 The first part provides a framework for developing trading strategies driven by machine learning (ML). It focuses on the data that power the ML algorithms and strategies discussed in this book, outlines how to engineer and evaluates features suitable for ML models, and how to manage and measure a portfolio's performance while executing a trading strategy.
